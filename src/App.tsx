@@ -141,7 +141,7 @@ const PermissionChart = () => {
 const Presentation = () => (
   <div className="p-4">
     <Slide
-      title="AI Automation Plan for Expert/Aderant Expert Billing"
+      title="AI Automation Plan for Expert"
       content={
         <ul className="list-disc pl-5">
           <li>Enhancing efficiency through AI integration</li>
